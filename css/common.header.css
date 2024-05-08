@@ -1,0 +1,7 @@
+.header__banner-title {
+    color: var(--text-color);
+    font-size: 2rem;
+    border: 1px solid var(--border-color);
+    padding: 10px;
+}
+
